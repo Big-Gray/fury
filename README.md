@@ -5,7 +5,7 @@
 
 </h1>
 
-<h4 align="center">A software library for scientific visualization in Python.
+<h4 align="center">Hello max was here
 </h4>
 
 <p align="center">
